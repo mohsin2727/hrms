@@ -1,6 +1,6 @@
 This is a program to handle payment of my clients
 
-This is a java program.
+This is a java program in master branch.
 
 This is the first modification after the commit. 
 

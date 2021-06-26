@@ -1,0 +1,6 @@
+*.xyz
+myfile.txt 
+*.class 
+*.jar
+
+.DS_Store

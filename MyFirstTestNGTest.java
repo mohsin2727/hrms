@@ -61,7 +61,7 @@ public class MyFirstTestNGTest {
   
   @BeforeMethod  //before method annotation
   public void beforeMethod() {
-	  //You should code pre-requisite here
+	  //You should code pre-requisite here awdasd
 	  //Open the browser
 /*		System.setProperty("webdriver.chrome.driver","C:\\temp\\webdrivertraining\\test\\resources\\chromedriver.exe");
 		driver = new ChromeDriver();
